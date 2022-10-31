@@ -1,7 +1,6 @@
 ---
-
 output: html_document
-pagetitle: PeytonBailey
+pagetitle: "PeytonBailey"
 ---
 
 ```{r setup, include=FALSE}
