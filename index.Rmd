@@ -1,0 +1,23 @@
+---
+
+output: html_document
+pagetitle: PeytonBailey
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,warning= FALSE,message = FALSE,echo = FALSE)
+
+library(tidyverse)
+
+```
+
+
+Here is my website!!!
+
+
+
+
+```{r}
+knitr::include_graphics("media/Peyton_Bailey.jpeg")
+```
+
